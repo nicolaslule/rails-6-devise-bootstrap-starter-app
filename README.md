@@ -1,25 +1,8 @@
-# README
+##### Rails 6 Starter App with Devise and Bootstrap
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Installed gems.
 
-Things you may want to cover:
+- Devise (https://github.com/heartcombo/devise)
+- Bootstrap 4.3.1 
+- Devise Bootstrap Views (https://github.com/hisea/devise-bootstrap-views)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-6-devise-bootstrap-starter-app
